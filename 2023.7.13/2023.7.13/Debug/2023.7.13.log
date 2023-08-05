@@ -1,0 +1,9 @@
+﻿  test.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(23,62): error C2061: 语法错误: 标识符“noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(23,62): error C2059: 语法错误:“;”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(23,90): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(25,1): error C2059: 语法错误:“}”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(31,72): error C2061: 语法错误: 标识符“noexcept”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(31,72): error C2059: 语法错误:“;”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(31,100): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(33,1): error C2059: 语法错误:“}”

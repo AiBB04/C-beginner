@@ -1,0 +1,7 @@
+﻿  Demo1.c
+  Demo2.cpp
+C:\code\2023GITHUB\C-beginner\treeDemo\treeDemo\Demo2.cpp(68,13): warning C4101: “lnode”: 未引用的局部变量
+C:\code\2023GITHUB\C-beginner\treeDemo\treeDemo\Demo2.cpp(68,6): warning C4101: “rnode”: 未引用的局部变量
+C:\code\2023GITHUB\C-beginner\treeDemo\treeDemo\Demo2.cpp(67,12): warning C4101: “min2”: 未引用的局部变量
+C:\code\2023GITHUB\C-beginner\treeDemo\treeDemo\Demo2.cpp(67,6): warning C4101: “min1”: 未引用的局部变量
+  treeDemo.vcxproj -> C:\code\2023GITHUB\C-beginner\treeDemo\Debug\treeDemo.exe
